@@ -1,8 +1,8 @@
 # Iluminación y tecnología
 
-Que lxs alumnxs conozcan soluciones tecnológicas para proyectos relacionados con iluminación. Este curso se enfoca en placas de desarrollo como Arduino o Raspberry Pi y se desborda hacia otros cauces.
+Conocer y poner en marcha soluciones tecnológicas para proyectos relacionados con iluminación. Este curso se enfoca en placas de desarrollo como Arduino o Raspberry Pi y se desborda hacia otros cauces.
 
-La realización de proyectos relacionados con iluminación puede realizarse con placas de desarrollo previamente manufacturadas. Proyectos de realización industrial parten de ellas para realizar proyectos complejos que aprovechan las resoluciones específicas que estas placas proporcionan para atender problemas específicos.
+La realización de proyectos relacionados con iluminación puede realizarse con placas de desarrollo previamente manufacturadas. Proyectos de realización industrial parten de ellas para realizar proyectos complejos que aprovechan las resoluciones específicas que estas placas proporcionan para atender problemas puntuales.
 
 Este curso toma la noción de alcance para proponer soluciones tecnológicas que orbitan en torno a estas placas y que incluso considera un desbordamiento hacia expresiones tecnológicas que prescinden de ellas, que pueden expandirse hacia la simplicidad o hacia una perspectiva poética de la tecnología.
 
@@ -22,3 +22,4 @@ Este curso toma la noción de alcance para proponer soluciones tecnológicas que
 - https://www.agelectronica.com/
 - https://uelectronics.com/
 - https://www.adafruit.com/product/1222
+- https://github.com/

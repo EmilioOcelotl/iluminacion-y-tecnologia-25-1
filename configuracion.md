@@ -12,7 +12,7 @@ Arduino UNO R4 viene con un programa por defecto. Es posible ejecutarlo con el b
 
 Para trabajar con Arduino es necesario descargar [Arduino IDE](https://www.arduino.cc/en/software).
 
-Una vez abierto el programa, es necesario descargar las bibliotecas de la placa en cuestión. En el caso de Arduino UNO R4 este proceso se realiza en cuanto conectamos Arduino a la computadora y abrimos Arduino IDE. 
+Una vez abierto el programa, es necesario descargar las bibliotecas de la placa que estén utilizando. En el caso de Arduino UNO R4 este proceso se realiza en cuanto conectamos Arduino a la computadora y abrimos Arduino IDE. 
 
 
 
