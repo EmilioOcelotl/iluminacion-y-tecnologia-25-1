@@ -9,7 +9,7 @@ Este curso toma la noción de alcance para proponer soluciones tecnológicas que
 ## Sesiones 
 
 - [x] [Sesión 1. 05.08.24](./sesiones/s01/s01.md). Reconocimientos iniciales y diagnóstico.
-- [ ] [Sesión 2. 12.08.24](./sesiones/s01/s02.md). Adafruit Playground Express y programación por bloques. 
+- [ ] [Sesión 2. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
 
 ## Enlaces 
 
