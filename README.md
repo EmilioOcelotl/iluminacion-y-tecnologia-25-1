@@ -55,6 +55,7 @@ Placas, documentación, proyectos, sitios y tiendas.
 
 - https://www.agelectronica.com/
 - https://uelectronics.com/
+- https://www.steren.com.mx/
 
 #### Mundo
 
