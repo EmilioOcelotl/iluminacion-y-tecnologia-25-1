@@ -9,28 +9,19 @@ Este curso toma la noción de alcance para proponer soluciones tecnológicas que
 ## Sesiones 
 
 - [x] [Sesión 1. 05.08.24](./sesiones/s01/s01.md). Reconocimientos iniciales y diagnóstico.
-- [ ] [Sesión 2. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
+- [x] [Sesión 2. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
+- [ ] [Sesión 3. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II y primeras pruebas con CircuitPython. 
 
 ## Enlaces 
 
 Placas, documentación, proyectos, sitios y tiendas. 
 
-### Placas
-
-- https://www.adafruit.com/product/1222
-- https://docs.arduino.cc/hardware/uno-r4-wifi/
-
-### Documentación
-
-#### Adafruit Playground Express
+### Adafruit Playground Express
 
 - https://learn.adafruit.com/makecode
 - https://makecode.adafruit.com/docs
 - https://makecode.adafruit.com/
-
-#### Arduino UNO R4 WIFI
-
-- https://docs.arduino.cc/tutorials/uno-r4-wifi/led-matrix/
+- https://www.adafruit.com/product/1222
 
 ### Proyectos
 
@@ -46,17 +37,14 @@ Placas, documentación, proyectos, sitios y tiendas.
 
 ### Tiendas 
 
-#### Online
-
-- https://www.amazon.com.mx/
-
-
 #### CDMX
 
 - https://www.agelectronica.com/
 - https://uelectronics.com/
 - https://www.steren.com.mx/
+- https://www.330ohms.com/
 
-#### Mundo
+#### Online
 
+- https://www.amazon.com.mx/
 - https://thepihut.com/
