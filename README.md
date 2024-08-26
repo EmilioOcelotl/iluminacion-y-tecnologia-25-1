@@ -10,41 +10,9 @@ Este curso toma la noción de alcance para proponer soluciones tecnológicas que
 
 - [x] [Sesión 1. 05.08.24](./sesiones/s01/s01.md). Reconocimientos iniciales y diagnóstico.
 - [x] [Sesión 2. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
-- [ ] [Sesión 3. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II y primeras pruebas con CircuitPython. 
+- [x] [Sesión 3. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II.
+- [ ] [Sesión 4. 26.08.24](./sesiones/s04/s04.md). Sonido y primeras pruebas con CircuitPython.  
 
 ## Enlaces 
 
-Placas, documentación, proyectos, sitios y tiendas. 
-
-### Adafruit Playground Express
-
-- https://learn.adafruit.com/makecode
-- https://makecode.adafruit.com/docs
-- https://makecode.adafruit.com/
-- https://www.adafruit.com/product/1222
-
-### Proyectos
-
-- https://projecthub.arduino.cc/
-- https://www.instructables.com/
-
-### Sitios 
-
-- https://www.arduino.cc/
-- https://www.raspberrypi.org/
-- https://www.adafruit.com/
-- https://github.com/
-
-### Tiendas 
-
-#### CDMX
-
-- https://www.agelectronica.com/
-- https://uelectronics.com/
-- https://www.steren.com.mx/
-- https://www.330ohms.com/
-
-#### Online
-
-- https://www.amazon.com.mx/
-- https://thepihut.com/
+[Placas, documentación, proyectos, sitios y tiendas](./enlaces.md)
