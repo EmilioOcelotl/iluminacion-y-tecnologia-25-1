@@ -1,8 +1,14 @@
 # Enlaces
 
+Algunos enlaces relacionados con el curso. 
+
+## Entornos de programación 
+
+- [makecode](https://learn.adafruit.com/makecode)
+- [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/)
+
 ## Adafruit Playground Express
 
-- https://learn.adafruit.com/makecode
 - https://makecode.adafruit.com/docs
 - https://makecode.adafruit.com/
 - https://www.adafruit.com/product/1222
