@@ -12,7 +12,8 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesión 2. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
 - [x] [Sesión 3. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II.
 - [x] [Sesión 4. 26.08.24](./sesiones/s04/s04.md). Sonido y primeras pruebas con CircuitPython.  
-- [ ] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
+- [x] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
+- [ ] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras. 
 
 ## Recursos
 
