@@ -13,16 +13,21 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesión 3. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II.
 - [x] [Sesión 4. 26.08.24](./sesiones/s04/s04.md). Sonido y primeras pruebas con CircuitPython.  
 - [x] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
-- [ ] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras. 
+- [x] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras.
+- [ ] [Sesión 7. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
 
 ## Recursos
 
+- [Introducción a la programación con Python - Santander](https://www.santanderopenacademy.com/es/courses/introduction_to_python_programming.html)
 - [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
 
-## Programas y editores
+## Programas, instaladores y editores
 
 - [Mu](https://codewith.mu/en/download)
 - [Audacity](https://www.audacityteam.org/)
+- [Python](https://www.python.org/)
+- [Processing](https://processing.org/)
+- [TouchDesigner](https://derivative.ca/)
 
 ## Librerías
 
