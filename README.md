@@ -14,7 +14,7 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesión 4. 26.08.24](./sesiones/s04/s04.md). Sonido y primeras pruebas con CircuitPython.  
 - [x] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
 - [x] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras.
-- [ ] [Sesión 7. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
+- [x] [Sesión 7. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
 
 ## Recursos
 
@@ -23,6 +23,7 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 
 ## Programas, instaladores y editores
 
+- [Fritzing](https://fritzing.org/)
 - [Mu](https://codewith.mu/en/download)
 - [Audacity](https://www.audacityteam.org/)
 - [Python](https://www.python.org/)
