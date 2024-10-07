@@ -15,6 +15,7 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
 - [x] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras.
 - [x] [Sesión 7. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
+- [ ] [Sesion 8. 08.20.24](./sesiones/s08/s08.md). LEDs y motores. 
 
 ## Recursos
 
