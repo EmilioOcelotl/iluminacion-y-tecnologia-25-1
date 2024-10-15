@@ -15,7 +15,8 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
 - [x] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras.
 - [x] [Sesión 7. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
-- [ ] [Sesion 8. 08.20.24](./sesiones/s08/s08.md). LEDs y motores. 
+- [x] [Sesion 8. 08.10.24](./sesiones/s08/s08.md). Tira de LEDs y motores. 
+- [ ] [Sesión 9. 14.10.24](./sesiones/s09/s09.md). CPX, Arduino y TD. 
 
 ## Recursos
 
@@ -24,6 +25,7 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 
 ## Programas, instaladores y editores
 
+- [Arduino](https://www.arduino.cc/)
 - [Fritzing](https://fritzing.org/)
 - [Mu](https://codewith.mu/en/download)
 - [Audacity](https://www.audacityteam.org/)
