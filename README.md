@@ -8,15 +8,17 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 
 ## Sesiones 
 
-- [x] [Sesión 1. 05.08.24](./sesiones/s01/s01.md). Reconocimientos iniciales y diagnóstico.
-- [x] [Sesión 2. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
-- [x] [Sesión 3. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II.
-- [x] [Sesión 4. 26.08.24](./sesiones/s04/s04.md). Sonido y primeras pruebas con CircuitPython.  
-- [x] [Sesión 5. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
-- [x] [Sesion 6. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras.
-- [x] [Sesión 7. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
-- [x] [Sesion 8. 08.10.24](./sesiones/s08/s08.md). Tira de LEDs y motores. 
-- [ ] [Sesión 9. 14.10.24](./sesiones/s09/s09.md). CPX, Arduino y TD. 
+- [x] [Sesión 01. 05.08.24](./sesiones/s01/s01.md). Reconocimientos iniciales y diagnóstico.
+- [x] [Sesión 02. 12.08.24](./sesiones/s02/s02.md). Adafruit Playground Express y programación por bloques. 
+- [x] [Sesión 03. 19.08.24](./sesiones/s03/s03.md). Programación por bloques II.
+- [x] [Sesión 04. 26.08.24](./sesiones/s04/s04.md). Sonido y primeras pruebas con CircuitPython.  
+- [x] [Sesión 05. 02.09.24](./sesiones/s05/s05.md). Sonido, luz y CircuitPython. 
+- [x] [Sesion 06. 09.09.24](./sesiones/s06/s06.md). Circuitos bordados y proyecciones futuras.
+- [x] [Sesión 07. 23.09.24](./sesiones/s07/s07.md). Control y comunicación de datos. 
+- [x] [Sesion 08. 30.10.24](./sesiones/s08/s08.md). Tira de LEDs y motores. 
+- [x] [Sesión 09. 14.10.24](./sesiones/s09/s09.md). CPX y Arduino. 
+- [x] [Sesión 10. 21.10.24](./sesiones/s10/s10.md). LEDs data y control.
+- [ ] [Sesión 11. 28.10.24](./sesiones/s11/s11.md). LEDs, Motores, data y control II. 
 
 ## Recursos
 
