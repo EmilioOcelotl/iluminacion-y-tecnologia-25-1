@@ -18,12 +18,14 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesion 08. 30.10.24](./sesiones/s08/s08.md). Tira de LEDs y motores. 
 - [x] [Sesión 09. 14.10.24](./sesiones/s09/s09.md). CPX y Arduino. 
 - [x] [Sesión 10. 21.10.24](./sesiones/s10/s10.md). LEDs data y control.
-- [ ] [Sesión 11. 28.10.24](./sesiones/s11/s11.md). LEDs, Motores, data y control II. 
+- [x] [Sesión 11. 28.10.24](./sesiones/s11/s11.md). LEDs, Motores, data y control II. 
+- [ ] [Sesión 12. 04.11.24](./sesiones/s12/s12.md). Soluciones a proyectos finales y Neopixel 
 
 ## Recursos
 
 - [Introducción a la programación con Python - Santander](https://www.santanderopenacademy.com/es/courses/introduction_to_python_programming.html)
 - [Speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
+- [Images and Pixels](https://processing.org/tutorials/pixels)
 
 ## Programas, instaladores y editores
 
