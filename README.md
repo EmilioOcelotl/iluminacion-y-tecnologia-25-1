@@ -20,9 +20,9 @@ Retomamos la noción de alcance para proponer soluciones tecnológicas que orbit
 - [x] [Sesión 10. 21.10.24](./sesiones/s10/s10.md). LEDs data y control.
 - [x] [Sesión 11. 28.10.24](./sesiones/s11/s11.md). LEDs, Motores, data y control II. 
 - [x] [Sesión 12. 04.11.24](./sesiones/s12/s12.md). Soluciones a proyectos finales y Neopixel.
-- [x] [Sesión 13. 11.11.24](./sesiones/s13/s13.md). Puesta en marcha de soluciones. 
+- [x] [Sesión 13. 11.11.24](./sesiones/s13/s13.md). Ideas iniciales. 
 - [x] Sesion 14. 25.11.24. Preparación.
-- [ ] [Sesión 15. 02.12.24](./sesiones/s15/s15.md) Soluciones para cada proyecto. 
+- [ ] [Sesión 15. 02.12.24](./sesiones/s15/s15.md) Soluciones. 
 
 ## Recursos
 
