@@ -7,7 +7,7 @@ Soluciones a proyectos.
 Para controlar un led con tacto capacitivo
 
 - [Código de makecode](./ledcpx/ledcpx.uf2)
-- [Esquema](./ledcpx/ledcpx.uf2)
+- ![Esquema](./ledcpx/ledcpx.png)
 
 ## Matrix de 15x15 e imágenes
 
@@ -21,7 +21,7 @@ Nota 2: Algunos LEDs pueden fallar. Revisar fila por fila.
 ## Filas de leds en una matriz y sensor ultrasónico
 
 - [Código](../s13/sensorUltraYLEDs/sensorUltraYLEDs.ino) de Arduino para controlar filas de LEDs con un sensor ultrasónico.
-- [Esquema](./sensorMatrix/sensorMatrix.png) para conectar la tira y el sensor 
+- ![Esquema](./sensorMatrix/sensorMatrix.png) para conectar la tira y el sensor 
 
 ## Intervalos de tiempo y filas de una matriz
 
