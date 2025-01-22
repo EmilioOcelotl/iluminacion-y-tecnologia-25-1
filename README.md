@@ -2,7 +2,7 @@
 
 Conocer y poner en marcha soluciones tecnológicas para proyectos relacionados con iluminación. Este curso se enfoca en placas de desarrollo y se desborda hacia otros cauces.
 
-La realización de proyectos relacionados con iluminación puede realizarse con placas de desarrollo previamente manufacturadas. Estas herramientas resuelven problemas concretos que se revisan en las sesiones de curso.
+En este curso usaremos placas de desarrollo previamente manufacturadas. Estas herramientas resuelven problemas concretos que se revisan en las sesiones de curso.
 
 Retomamos la noción de alcance para proponer soluciones tecnológicas que orbitan en torno a estas placas y que incluso considera un desbordamiento hacia expresiones tecnológicas que prescinden de ellas. Podemos expandirnos hacia la simplicidad o hacia una perspectiva poética de la tecnología.
 
